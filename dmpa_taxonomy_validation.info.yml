@@ -1,0 +1,5 @@
+name: DMPA-SC Taxonomy Validation
+type: module
+description: This module updates the country name with space instead of dash
+core: 8.x
+package: dmpa
